@@ -222,6 +222,10 @@ patchedDependencies:
 importers:
 
   .:
+    dependencies:
+      pdfjs-dist:
+        specifier: 5.3.31
+        version: 5.3.31(patch_hash=421253c8e411cdaef58ba96d2bb44ae0784e1b3e446f5caca50710daa1fa5dcd)
     devDependencies:
       '@biomejs/biome':
         specifier: ^1.9.0
@@ -1413,6 +1417,9 @@ importers:
       p-lazy:
         specifier: 3.1.0
         version: 3.1.0
+      pdfjs-dist:
+        specifier: 5.3.31
+        version: 5.3.31(patch_hash=421253c8e411cdaef58ba96d2bb44ae0784e1b3e446f5caca50710daa1fa5dcd)
       pg:
         specifier: 8.12.0
         version: 8.12.0

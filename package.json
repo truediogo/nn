@@ -113,5 +113,8 @@
       "vue-tsc@2.2.8": "patches/vue-tsc@2.2.8.patch",
       "element-plus@2.4.3": "patches/element-plus@2.4.3.patch"
     }
+  },
+  "dependencies": {
+    "pdfjs-dist": "5.3.31"
   }
 }
